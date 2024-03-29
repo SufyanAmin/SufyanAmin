@@ -1,11 +1,8 @@
-- 👋 Hi, My name is Sufyan
-- 👀 I’m a frontend developer ...
-- 🌱 I'm learning backend development ...
-  
 <!---
 SufyanAmin/SufyanAmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![logo](https://github.com/SufyanAmin/SufyanAmin/blob/main/Github%20banner%202.png)
 <h1 align="center">Hi 👋, I'm Sufyan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
