@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16376pgoPCVXi4VALjbNCPbRWkY84r5D7/view?usp=sharing](https://drive.google.com/file/d/16376pgoPCVXi4VALjbNCPbRWkY84r5D7/view?usp=sharing)
 
-- ⚡ Fun fact **I am very funny**
+- ⚡ Fun fact ** I can solve a Rubik's Cube in under a minute!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
